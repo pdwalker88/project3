@@ -1,0 +1,70 @@
+body{
+
+	background-color:#EBFAFA;
+  border:solid;
+  padding: 2%;
+  
+}
+
+.about{
+
+	 background-color: lightblue;
+    color: black;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Garamond;
+    font-size: 18px;
+
+}
+
+.contact {
+    color: black;
+    height: auto;
+    width: auto;
+    padding: 0px 75px 5px;
+    font-family: Castellar;
+    font-size: 25px;
+    text-align: center;
+}
+
+.hobbies {
+    background-color: lightblue;
+    color: black;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Garamond;
+    font-size: 18px;
+}
+
+.goals {
+    background-color: lightblue;
+    color: black;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Garamond;
+    font-size: 18px;
+}
+
+.bullets {
+    text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+
+footer {
+    visibility: hidden;
+}
